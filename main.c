@@ -6,7 +6,8 @@ int main()
     char mayor[50];
     int population;
 
-    printf("Municipal Financial Management System\n\n");
+    printf("Municipal Financial Management System\n");
+printf("Welcome to Windhoek Municipality\n\n");
 
     printf("Enter Municipality Name: ");
     scanf("%49s", municipality);
